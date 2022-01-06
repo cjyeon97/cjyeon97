@@ -23,7 +23,7 @@ Tech's that I've used least at once
 
 Reach Me in..
 -------------------------------------------------------------------------------------------------
-![Instagram](https://img.shields.io/badge/<_zi._.yxxn_>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/_zi._.yxxn_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 	![Gmail](https://img.shields.io/badge/chayjiyun9709@gamil.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Gmail](https://img.shields.io/badge/chayjiyun9709@hutom.co.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
