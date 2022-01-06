@@ -1,7 +1,8 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=6667AB&height=300&section=header&text=JiYeon%20Choi's%20Code&fontSize=50&fontColor=b0cddf&rotate=19&fontAlignY=45&animation=fadeIn)
 
 
-<div align="center">
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjyeon97%2Fhit-counter&count_bg=%23F7CAC9&title_bg=%2392A8D2&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -18,7 +19,7 @@ Tech's that I've used least at once
 💻 Interested In.. 💻
 -------------------------------------------------------------------------------------------------
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-</div>
 
 
 ![cjyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjyeon97&show_icons=true&theme=discord_old_blurple)	
+</div>
