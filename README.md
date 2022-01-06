@@ -10,4 +10,3 @@
 
 ![cjyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjyeon97&show_icons=true&theme=discord_old_blurple)
 
-[![solved.ac cjyeon97](http://mazassumnida.wtf/api/generate_badge?boj=cjyeon97)](https://solved.ac/cjyeon97)
