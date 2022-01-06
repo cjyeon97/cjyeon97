@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjyeon97%2Fhit-counter&count_bg=%23F7CAC9&title_bg=%2392A8D2&icon=googlefit.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-Tech Stack 
+❤️ Tech Stack ❤️
 	
 Tech's that I've used least at once
 	
