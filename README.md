@@ -44,5 +44,7 @@ Reach Me in..
 
 
 
-![cjyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjyeon97&show_icons=true&theme=discord_old_blurple)	
+![cjyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjyeon97&show_icons=true&theme=discord_old_blurple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjyeon97&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
