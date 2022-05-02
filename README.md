@@ -3,8 +3,8 @@
 👋 Hi, I’m @cjyeon97 <br>
 👀 I’m interested in DB, ML  <br>
 🌱 I’m currently learning Data Preprocessing and DB <br>
-💻 I'm working at Hutom  <br>
-📫 How to reach me ... chayjiyun9709@gamil.com or chayjiyun9709@hutom.io
+💻 I'm worked at Hutom and now working at Planit Healthcare <br>
+📫 How to reach me ... chayjiyun9709@gamil.com or sonia@planit.ai
 </div>
 
 <div align="center">	
