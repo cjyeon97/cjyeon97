@@ -19,10 +19,11 @@ Tech's that I've used least at once
 	
 ### Main Stack
 
-![Mssql](https://img.shields.io/badge/Mssql-%23316192.svg?style=for-the-badge&logo=Mssql&logoColor=white) 	
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white">  
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=Postgres&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-234ea94b?style=for-the-badge&logo=MongoDB&logoColor=white"> 	
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 	
 	
 ### Sub Stack
 	
