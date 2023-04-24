@@ -64,7 +64,6 @@ Reach Me in..
 <a href = "https://www.linkedin.com/in/jiyeon-choi-60345b224/" > ![LinkedIn](https://img.shields.io/badge/JiYeon.Choi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href = "https://github.com/cjyeon97" > ![GitHub](https://img.shields.io/badge/cjyeon97-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
 ![Gmail](https://img.shields.io/badge/chayjiyun9709@gamil.com-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-![Gmail](https://img.shields.io/badge/chayjiyun9709@hutom.co.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
